@@ -1,0 +1,12 @@
+-- ,{
+--   type = "sound",
+--   name = "crafting-finished",
+--   -- filename = "__core__/sound/crafting-finished.ogg",
+--   -- filename = "__HandyHands__/sound/crafting-finished.ogg",
+--   volume = 0
+-- }
+-- local crafting_finished = table.deepcopy(data.raw['utility-sounds'].default.crafting_finished)
+-- crafting_finished.volume = 0
+-- crafting_finished.filename = '__core__/sound/crafting-finished.ogg'
+-- data.raw['utility-sounds'].default.crafting_finished = crafting_finished
+data.raw['utility-sounds'].default.crafting_finished[1].volume = 0
