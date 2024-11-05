@@ -57,7 +57,7 @@ If you enjoy HandyHands, consider supporting development through [Patreon](https
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU GPLv3 - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
